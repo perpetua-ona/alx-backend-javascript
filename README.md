@@ -1,2 +1,1 @@
-ALX Backend Javascript
-=====================
+ALX Project ES6 Promise
